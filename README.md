@@ -1,4 +1,4 @@
-# ![Humanes logo](https://avatars3.githubusercontent.com/u/31112269?v=4&s=200) [humanes.github.io](https://humanes.github.io)
+# ![Humanes logo](https://avatars3.githubusercontent.com/u/31112269?v=4&s=28) [humanes.github.io](https://humanes.github.io)
 
 ## Getting Started
 
